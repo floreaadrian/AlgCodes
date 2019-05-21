@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.pl": "prolog",
+        "*.html": "html",
+        "*.tcc": "cpp",
+        "string_view": "cpp",
+        "forward_list": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "valarray": "cpp"
+    }
+}

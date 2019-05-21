@@ -1,0 +1,3 @@
+/Users/adrianflorea/CLionProjects/GoodBye2017-CF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/adrianflorea/CLionProjects/GoodBye2017-CF/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adrianflorea/CLionProjects/GoodBye2017-CF/cmake-build-debug/CMakeFiles/GoodBye2017_CF.dir
